@@ -4,6 +4,8 @@ Reject null, empty, non-positive, and out-of-range arguments at a public boundar
 
 **Version:** 0.1.1. Not published to nuget.org yet. Do not `dotnet nuget push` from a local clone.
 
+Docs: https://nuvyntralabs.github.io/packages/nuvyntralabs-net-guard/
+
 ```bash
 dotnet add package NuvyntraLabs.NET.Guard
 ```
