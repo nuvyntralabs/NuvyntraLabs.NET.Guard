@@ -8,7 +8,7 @@
     <Description>Reject null, empty, non-positive, and out-of-range arguments.</Description>
     <PackageTags>nuvyntra;guard;arguments</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageProjectUrl>https://github.com/nuvyntralabs/NuvyntraLabs.NET.Guard</PackageProjectUrl>
+    <PackageProjectUrl>https://nuvyntralabs.github.io/packages/nuvyntralabs-net-guard/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nuvyntralabs/NuvyntraLabs.NET.Guard</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <IsPackable>true</IsPackable>
